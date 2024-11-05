@@ -3,5 +3,6 @@ This code helps to insert the text of the questions from the NES game called "Ex
 `ROM CRC32: AB26DB6`
 
 Usage: Copy this file into the same directory as the NES file the use  
-`extractor.py <textfile.txt> <nesfile.nes>`
+`inserter.py <textfile.txt> <nesfile.nes>`
 
+If you used my [extractor]([https://www.google.com](https://github.com/KodingBTW/exodus-nes-text-exporter)), you shouldn't have any problems using the inserter.
